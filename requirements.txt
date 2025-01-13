@@ -1,0 +1,6 @@
+streamlit
+langchain>=0.0.180
+pydantic==1.10.12
+langchain_groq
+fpdf==1.7.2
+python-dotenv
